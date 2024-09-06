@@ -9,7 +9,7 @@ export default function Header() {
   return (
     <header className="lg:hidden fixed top-0 w-full bg-neutral-900 z-50 flex items-center justify-between px-4 py-4">
       <Image src="/logo.svg" alt="Logo" width={32} height={32} className="h-8 w-8" />
-      <h1 className="font-semibold text-lg text-white">Apple Slides</h1>
+      <h1 className="font-semibold text-lg text-white">Apple Summary Slides</h1>
       <button className="text-white" onClick={toggleSidebar}>
         <svg
           className="h-6 w-6"
