@@ -19,6 +19,7 @@
     "react-dom": "19.0.0-rc-7771d3a7-20240827",
     "tailwind-merge": "^2.5.2",
     "tailwindcss-animate": "^1.0.7",
+    "yet-another-react-lightbox": "^3.21.4",
     "zustand": "^4.5.5"
   },
   "devDependencies": {
