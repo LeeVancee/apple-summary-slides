@@ -1,4 +1,48 @@
 {
+    "apple-event-sept-2024": [
+        {
+            "id": "apple-event-sept-2024-airpods-4",
+            "title": "AirPods 4",
+            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods 4].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-sept-2024-airpods-pro-2",
+            "title": "AirPods Pro 2",
+            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods Pro 2].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-sept-2024-watch-series-10",
+            "title": "Apple Watch Series 10",
+            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Series 10].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-sept-2024-watch-ultra-3",
+            "title": "Apple Watch Ultra 3",
+            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Ultra 3].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-sept-2024-iphone-16-a18",
+            "title": "iPhone 16 A18",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 A18].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-sept-2024-iphone-16-pro",
+            "title": "iPhone 16 Pro",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 Pro].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-sept-2024-iphone-16",
+            "title": "iPhone 16",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16].webp",
+            "category": "iphone"
+        }
+    ],
     "wwdc-june-2024": [
         {
             "id": "wwdc2024-ai-apple-intelligence",

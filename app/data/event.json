@@ -18,6 +18,18 @@
         ]
     },
     {
+        "id": "apple-event-sept-2024",
+        "name": "WWDC September 2024",
+        "date": "2024-06-10",
+        "logo": "/events/Apple Event September 2024.webp",
+        "categories": [
+            "all",
+            "iphone",
+            "airpods",
+            "apple-watch"
+        ]
+    },
+    {
         "id": "wwdc-june-2024",
         "name": "WWDC June 2024",
         "date": "2024-06-10",
@@ -25,11 +37,8 @@
         "categories": [
             "all",
             "iphone",
-            "mac",
-            "apple-watch",
-            "tv-home",
-            "vision",
-            "ai"
+            "airpods",
+            "apple-watch"
         ]
     },
     {
