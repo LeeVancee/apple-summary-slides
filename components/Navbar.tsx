@@ -2,8 +2,8 @@
 import React from 'react';
 import Image from 'next/image';
 import { useParams, useRouter } from 'next/navigation';
-import events from '../data/event.json';
-import categories from '../data/categories.json';
+import events from '@/data/event.json';
+import categories from '@/data/categories.json';
 import { cn } from '@/lib/utils';
 
 const Navbar: React.FC = () => {

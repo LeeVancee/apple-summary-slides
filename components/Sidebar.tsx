@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 import Image from 'next/image';
-import events from '../data/event.json';
+import events from '@/data/event.json';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import useSidebarStore from '@/utils/open-sidebar';

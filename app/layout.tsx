@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 import './globals.css';
-import Sidebar from './components/Sidebar';
-import Header from './components/Header';
-import Navbar from './components/Navbar';
+import Sidebar from '@/components/Sidebar';
+import Header from '@/components/Header';
+import Navbar from '@/components/Navbar';
 
 export const metadata: Metadata = {
   title: 'Apple Summary Slides',
