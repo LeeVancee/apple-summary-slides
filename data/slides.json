@@ -1,722 +1,722 @@
 {
-    "apple-event-sept-2024": [
+    "apple-event-april-2021": [
         {
-            "id": "apple-event-sept-2024-airpods-4",
-            "title": "AirPods 4",
-            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods 4].webp",
-            "category": "airpods"
-        },
-        {
-            "id": "apple-event-sept-2024-airpods-pro-2",
-            "title": "AirPods Pro 2",
-            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods Pro 2].webp",
-            "category": "airpods"
-        },
-        {
-            "id": "apple-event-sept-2024-watch-series-10",
-            "title": "Apple Watch Series 10",
-            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Series 10].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2024-watch-ultra-3",
-            "title": "Apple Watch Ultra 3",
-            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Ultra 3].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2024-iphone-16-a18",
-            "title": "iPhone 16 A18",
-            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 A18].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2024-iphone-16-pro",
-            "title": "iPhone 16 Pro",
-            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 Pro].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2024-iphone-16",
-            "title": "iPhone 16",
-            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16].webp",
-            "category": "iphone"
-        }
-    ],
-    "wwdc-june-2024": [
-        {
-            "id": "wwdc2024-ai-apple-intelligence",
-            "title": "Apple Intelligence",
-            "image": "/slides/[WWDC June 2024]-[AI]-[Apple Intelligence].webp",
-            "category": "ai"
-        },
-        {
-            "id": "wwdc2024-watchos-11",
-            "title": "watchOS 11",
-            "image": "/slides/[WWDC June 2024]-[Apple Watch]-[watchOS 11].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2024-macos-15",
-            "title": "macOS 15",
-            "image": "/slides/[WWDC June 2024]-[Mac]-[macOS 15].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2024-audio-home",
-            "title": "Audio & Home",
-            "image": "/slides/[WWDC June 2024]-[TV & Home]-[Audio & Home].webp",
-            "category": "tv-home"
-        },
-        {
-            "id": "wwdc2024-vision-pro",
-            "title": "visionOS 2",
-            "image": "/slides/[WWDC June 2024]-[Vision]-[visionOS 2].webp",
-            "category": "vision"
-        },
-        {
-            "id": "wwdc2024-ipados-18",
-            "title": "iPadOS 18",
-            "image": "/slides/[WWDC June 2024]-[iPad]-[iPadOS 18].webp",
+            "id": "apple-event-april-2021-ipad-ipad-pro-2021",
+            "title": "iPad Pro 2021",
+            "image": "/slides/[Apple Event April 2021]-[iPad]-[iPad Pro 2021].webp",
             "category": "ipad"
         },
         {
-            "id": "wwdc2024-ios-18",
-            "title": "iOS 18",
-            "image": "/slides/[WWDC June 2024]-[iPhone]-[iOS 18].webp",
-            "category": "iphone"
-        }
-    ],
-    "apple-event-may-2024": [
-        {
-            "id": "apple-event-may-2024-m4-family",
-            "title": "Apple M4 Family",
-            "image": "/slides/[Apple Event May 2024]-[iPad]-[Apple M4 Family].webp",
+            "id": "apple-event-april-2021-ipad-ipad-pro-environmental-goals",
+            "title": "iPad Pro Environmental Goals",
+            "image": "/slides/[Apple Event April 2021]-[iPad]-[iPad Pro Environmental Goals].webp",
             "category": "ipad"
         },
         {
-            "id": "apple-event-may-2024-pencil-pro",
-            "title": "Apple Pencil Pro",
-            "image": "/slides/[Apple Event May 2024]-[iPad]-[Apple Pencil Pro].webp",
+            "id": "apple-event-april-2021-ipad-liquid-xdr-display",
+            "title": "Liquid XDR Display",
+            "image": "/slides/[Apple Event April 2021]-[iPad]-[Liquid XDR Display].webp",
             "category": "ipad"
         },
         {
-            "id": "apple-event-may-2024-ipad-air",
-            "title": "iPad Air 2024",
-            "image": "/slides/[Apple Event May 2024]-[iPad]-[iPad Air 2024].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-may-2024-ipad-pro",
-            "title": "iPad Pro 2024",
-            "image": "/slides/[Apple Event May 2024]-[iPad]-[iPad Pro 2024].webp",
-            "category": "ipad"
-        }
-    ],
-    "apple-event-oct-2023": [
-        {
-            "id": "apple-event-oct-2023-m3-family",
-            "title": "Apple M3 Family",
-            "image": "/slides/[Apple Event October 2023]-[Mac]-[Apple M3 Family].webp",
-            "category": "mac"
-        },
-        {
-            "id": "apple-event-oct-2023-mac-studio",
-            "title": "Mac Studio",
-            "image": "/slides/[Apple Event October 2023]-[Mac]-[Macbook Pro 14 and 16 (2023)].webp",
-            "category": "mac"
-        },
-        {
-            "id": "apple-event-oct-2023-imac",
-            "title": "iMac (2023)",
-            "image": "/slides/[Apple Event October 2023]-[Mac]-[iMac (2023)].webp",
-            "category": "mac"
-        }
-    ],
-    "apple-event-sept-2023": [
-        {
-            "id": "apple-event-sept-2023-iphone-15",
-            "title": "iPhone 15",
-            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15].webp",
+            "id": "apple-event-april-2021-iphone-airtag",
+            "title": "AirTag",
+            "image": "/slides/[Apple Event April 2021]-[iPhone]-[AirTag].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-sept-2023-iphone-15-pro",
-            "title": "iPhone 15 Pro",
-            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15 Pro].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2023-iphone-camera",
-            "title": "iPhone 15 Camera",
-            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15 Camera].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2023-apple-watch-series-9",
-            "title": "Apple Watch Series 9",
-            "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Series 9].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2023-apple-watch-ultra-2",
-            "title": "Apple Watch Ultra 2",
-            "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Ultra 2].webp",
-            "category": "apple-watch"
-        }
-    ],
-    "wwdc-june-2023": [
-        {
-            "id": "wwdc2023-watchos-10",
-            "title": "watchOS 10",
-            "image": "/slides/[WWDC June 2023]-[Apple Watch]-[watchOS 10].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2023-macos-14",
-            "title": "macOS 14",
-            "image": "/slides/[WWDC June 2023]-[Mac]-[Apple M2 Ultra Chip].webp",
+            "id": "apple-event-april-2021-mac-imac-(2021)",
+            "title": "iMac (2021)",
+            "image": "/slides/[Apple Event April 2021]-[Mac]-[iMac (2021)].webp",
             "category": "mac"
         },
         {
-            "id": "wwdc2023-mac-pro",
-            "title": "Mac Pro (2023)",
-            "image": "/slides/[WWDC June 2023]-[Mac]-[Mac Pro (2023)].webp",
+            "id": "apple-event-april-2021-mac-imac-environmental-goals",
+            "title": "iMac Environmental Goals",
+            "image": "/slides/[Apple Event April 2021]-[Mac]-[iMac Environmental Goals].webp",
             "category": "mac"
         },
         {
-            "id": "wwdc2023-mac-studio",
-            "title": "Mac Studio (2023)",
-            "image": "/slides/[WWDC June 2023]-[Mac]-[Mac Studio (2023)].webp",
-            "category": "mac"
+            "id": "apple-event-april-2021-tv-&-home-apple-tv-4k-(2021)",
+            "title": "Apple TV 4K (2021)",
+            "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K (2021)].webp",
+            "category": "tv-&-home"
         },
         {
-            "id": "wwdc2023-macbook-air",
-            "title": "Macbook Air 15 (2023)",
-            "image": "/slides/[WWDC June 2023]-[Mac]-[Macbook Air 15].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2023-macos-13",
-            "title": "macOS 13",
-            "image": "/slides/[WWDC June 2023]-[Mac]-[macOS 13].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2023-tv-home",
-            "title": "TV & Home",
-            "image": "/slides/[WWDC June 2023]-[TV & Home]-[Audio & Home].webp",
-            "category": "tv-home"
-        },
-        {
-            "id": "wwdc2023-ipados-17",
-            "title": "iPadOS 17",
-            "image": "/slides/[WWDC June 2023]-[iPad]-[iPadOS 17].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "wwdc2023-ios-17",
-            "title": "iOS 17",
-            "image": "/slides/[WWDC June 2023]-[iPhone]-[iOS 17].webp",
-            "category": "iphone"
-        }
-    ],
-    "apple-event-sept-2022": [
-        {
-            "id": "apple-event-sept-2022-airpods-pro",
-            "title": "AirPods Pro 2nd Generation",
-            "image": "/slides/[Apple Event September 2022]-[AirPods]-[AirPods Pro 2nd Generation].webp",
-            "category": "airpods"
-        },
-        {
-            "id": "apple-event-sept-2022-airpods-pro-environmental-goals",
-            "title": "AirPods Pro Environmental Goals",
-            "image": "/slides/[Apple Event September 2022]-[AirPods]-[AirPods Pro Environmental Goals].webp",
-            "category": "airpods"
-        },
-        {
-            "id": "apple-event-sept-2022-apple-watch-se",
-            "title": "Apple Watch SE (2022)",
-            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch SE (2022)].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2022-apple-watch-series-8",
-            "title": "Apple Watch Series 8",
-            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Series 8].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2022-apple-watch-ultra",
-            "title": "Apple Watch Ultra",
-            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Ultra].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2022-iphone-14-display",
-            "title": "iPhone 14 Display",
-            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Display].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2022-iphone-14-pro-environmental-goals",
-            "title": "iPhone 14 Pro Environmental Goals",
-            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Pro Environmental Goals].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2022-iphone-14-pro",
-            "title": "iPhone 14 Pro",
-            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Pro].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2022-iphone-14",
-            "title": "iPhone 14",
-            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14].webp",
-            "category": "iphone"
-        }
-    ],
-    "wwdc-june-2022": [
-        {
-            "id": "wwdc2022-watchos-9",
-            "title": "watchOS 9",
-            "image": "/slides/[WWDC June 2022]-[Apple Watch]-[watchOS 9].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2022-m2-chip",
-            "title": "Apple M2 Chip",
-            "image": "/slides/[WWDC June 2022]-[Mac]-[Apple M2 Chip].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2022-macbook-air",
-            "title": "Macbook Air (2022)",
-            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Air (2022)].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2022-macbook-environmental-goals",
-            "title": "Macbook Environmental Goals",
-            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Environmental Goals].webp",
-            "category": "mac"
-        },
-        {
-            "id": "wwdc2022-macbook-pro-13",
-            "title": "Macbook Pro 13 (2022)",
-            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Pro 13 (2022)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "wwdc2022-ipados-16",
-            "title": "iPadOS 16",
-            "image": "/slides/[WWDC June 2022]-[iPad]-[iPadOS 16].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "wwdc2022-ios-16",
-            "title": "iOS 16",
-            "image": "/slides/[WWDC June 2022]-[iPhone]-[iOS 16].webp",
-            "category": "iphone"
+            "id": "apple-event-april-2021-tv-&-home-apple-tv-4k-environmental-goals",
+            "title": "Apple TV 4K Environmental Goals",
+            "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K Environmental Goals].webp",
+            "category": "tv-&-home"
         }
     ],
     "apple-event-march-2022": [
         {
-            "id": "apple-event-march-2022-macbook-pro-14",
+            "id": "apple-event-march-2022-ipad-ipad-air-(2022)",
+            "title": "iPad Air (2022)",
+            "image": "/slides/[Apple Event March 2022]-[iPad]-[iPad Air (2022)].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-march-2022-iphone-iphone-se-(2022)",
+            "title": "iPhone SE (2022)",
+            "image": "/slides/[Apple Event March 2022]-[iPhone]-[iPhone SE (2022)].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-march-2022-iphone-iphone-se-environmental-goals",
+            "title": "iPhone SE Environmental Goals",
+            "image": "/slides/[Apple Event March 2022]-[iPhone]-[iPhone SE Environmental Goals].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-march-2022-mac-apple-m1-ultra-chip",
             "title": "Apple M1 Ultra Chip",
             "image": "/slides/[Apple Event March 2022]-[Mac]-[Apple M1 Ultra Chip].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-march-2022-mac-studio-environmental-goals",
+            "id": "apple-event-march-2022-mac-mac-studio-environmental-goals",
             "title": "Mac Studio Environmental Goals",
             "image": "/slides/[Apple Event March 2022]-[Mac]-[Mac Studio Environmental Goals].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-march-2022-mac-studio",
+            "id": "apple-event-march-2022-mac-mac-studio",
             "title": "Mac Studio",
             "image": "/slides/[Apple Event March 2022]-[Mac]-[Mac Studio].webp",
             "category": "mac"
         },
         {
             "id": "apple-event-march-2022-mac-studio-display-environmental-goals",
-            "title": "Mac Studio Display Environmental Goals",
+            "title": "Studio Display Environmental Goals",
             "image": "/slides/[Apple Event March 2022]-[Mac]-[Studio Display Environmental Goals].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-march-2022-macbook-pro-13",
+            "id": "apple-event-march-2022-mac-studio-display",
             "title": "Studio Display",
             "image": "/slides/[Apple Event March 2022]-[Mac]-[Studio Display].webp",
             "category": "mac"
-        },
-        {
-            "id": "apple-event-march-2022-ipad-air",
-            "title": "iPad Air (2022)",
-            "image": "/slides/[Apple Event March 2022]-[iPad]-[iPad Air (2022)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-march-2022-iphone-se",
-            "title": "iPhone SE (2022)",
-            "image": "/slides/[Apple Event March 2022]-[iPhone]-[iPhone SE (2022)].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-march-2022-iphone-se-environmental-goals",
-            "title": "iPhone SE Environmental Goals",
-            "image": "/slides/[Apple Event March 2022]-[iPhone]-[iPhone SE Environmental Goals].webp",
-            "category": "iphone"
         }
     ],
-    "apple-event-oct-2021": [
+    "apple-event-may-2024": [
         {
-            "id": "apple-event-oct-2021-airpods-3",
-            "title": "AirPods 3rd Generation",
-            "image": "/slides/[Apple Event October 2021]-[AirPods]-[AirPods 3rd Generation].webp",
-            "category": "airpods"
+            "id": "apple-event-may-2024-ipad-apple-m4-family",
+            "title": "Apple M4 Family",
+            "image": "/slides/[Apple Event May 2024]-[iPad]-[Apple M4 Family].webp",
+            "category": "ipad"
         },
         {
-            "id": "apple-event-oct-2021-macbook-14-16",
-            "title": "Macbook 14 and 16 (2021)",
-            "image": "/slides/[Apple Event October 2021]-[Mac]-[Macbook 14 and 16 (2021)].webp",
-            "category": "mac"
+            "id": "apple-event-may-2024-ipad-apple-pencil-pro",
+            "title": "Apple Pencil Pro",
+            "image": "/slides/[Apple Event May 2024]-[iPad]-[Apple Pencil Pro].webp",
+            "category": "ipad"
         },
         {
-            "id": "apple-event-oct-2021-macbook-14-16-environmental-goals",
-            "title": "Macbook 14 and 16 Environmental Goals",
-            "image": "/slides/[Apple Event October 2021]-[Mac]-[Macbook 14 and 16 Environmental Goals].webp",
-            "category": "mac"
+            "id": "apple-event-may-2024-ipad-ipad-air-2024",
+            "title": "iPad Air 2024",
+            "image": "/slides/[Apple Event May 2024]-[iPad]-[iPad Air 2024].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-may-2024-ipad-ipad-pro-2024",
+            "title": "iPad Pro 2024",
+            "image": "/slides/[Apple Event May 2024]-[iPad]-[iPad Pro 2024].webp",
+            "category": "ipad"
         }
     ],
-    "apple-event-sept-2021": [
+    "apple-event-november-2020": [
         {
-            "id": "apple-event-sept-2021-iphone-13-pro",
-            "title": "iPhone 13 Pro",
-            "image": "/slides/[Apple Event September 2021]-[iPhone]-[iPhone 13 Pro].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2021-ipad-mini",
-            "title": "iPad Mini (2021)",
-            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad Mini (2021)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2021-apple-watch-series-7",
-            "title": "Apple Watch Series 7",
-            "image": "/slides/[Apple Event September 2021]-[Apple Watch]-[Apple Watch Series 7].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "apple-event-sept-2021-ipad",
-            "title": "iPad (2021)",
-            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad (2021)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2021-ipad-environmental-goals",
-            "title": "iPad Environmental Goals",
-            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad Environmental Goals].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2021-iphone-13",
-            "title": "iPhone 13",
-            "image": "/slides/[Apple Event September 2021]-[iPhone]-[iPhone 13].webp",
-            "category": "iphone"
-        }
-    ],
-    "wwdc-june-2021": [
-        {
-            "id": "wwdc2021-airpods-family",
-            "title": "New features Coming to AirPods Family",
-            "image": "/slides/[WWDC June 2021]-[AirPods]-[New features Coming to AirPods Family].webp",
-            "category": "airpods"
-        },
-        {
-            "id": "wwdc2021-health",
-            "title": "Health",
-            "image": "/slides/[WWDC June 2021]-[Apple Watch]-[Health].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2021-watchos-8",
-            "title": "watchOS 8",
-            "image": "/slides/[WWDC June 2021]-[Apple Watch]-[watchOS 8].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2021-tv-home",
-            "title": "TV & Home",
-            "image": "/slides/[WWDC June 2021]-[TV & Home]-[Home].webp",
-            "category": "tv-home"
-        },
-        {
-            "id": "wwdc2021-ipados-15",
-            "title": "iPadOS 15",
-            "image": "/slides/[WWDC June 2021]-[iPad]-[iPadOS 15].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "wwdc2021-ios-15",
-            "title": "iOS 15",
-            "image": "/slides/[WWDC June 2021]-[iPhone]-[iOS 15].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "wwdc2021-macos-12",
-            "title": "macOS 12",
-            "image": "/slides/[WWDC June 2021]-[Mac]-[macOS 12].webp",
-            "category": "mac"
-        }
-    ],
-    "apple-event-april-2021": [
-        {
-            "id": "apple-event-april-2021-imac",
-            "title": "iMac (2021)",
-            "image": "/slides/[Apple Event April 2021]-[Mac]-[iMac (2021)].webp",
-            "category": "mac"
-        },
-        {
-            "id": "apple-event-april-2021-imac-environmental-goals",
-            "title": "iMac Environmental Goals",
-            "image": "/slides/[Apple Event April 2021]-[Mac]-[iMac Environmental Goals].webp",
-            "category": "mac"
-        },
-        {
-            "id": "apple-event-april-2021-apple-tv-4k",
-            "title": "Apple TV 4K (2021)",
-            "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K (2021)].webp",
-            "category": "tv-home"
-        },
-        {
-            "id": "apple-event-april-2021-apple-tv-4k-environmental-goals",
-            "title": "Apple TV 4K Environmental Goals",
-            "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K Environmental Goals].webp",
-            "category": "tv-home"
-        },
-        {
-            "id": "apple-event-april-2021-ipad-pro",
-            "title": "Liquid XDR Display",
-            "image": "/slides/[Apple Event April 2021]-[iPad]-[Liquid XDR Display].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-april-2021-ipad-pro-2021",
-            "title": "iPad Pro 2021",
-            "image": "/slides/[Apple Event April 2021]-[iPad]-[iPad Pro 2021].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-april-2021-ipad-pro-environmental-goals",
-            "title": "iPad Pro Environmental Goals",
-            "image": "/slides/[Apple Event April 2021]-[iPad]-[iPad Pro Environmental Goals].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-april-2021-airtag",
-            "title": "AirTag",
-            "image": "/slides/[Apple Event April 2021]-[iPhone]-[AirTag].webp",
-            "category": "iphone"
-        }
-    ],
-    "apple-event-nov-2020": [
-        {
-            "id": "apple-event-nov-2020-apple-m1-chip",
+            "id": "apple-event-november-2020-mac-apple-m1-chip-(1)",
             "title": "Apple M1 Chip (1)",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[Apple M1 Chip (1)].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-apple-m1-chip-2",
+            "id": "apple-event-november-2020-mac-apple-m1-chip-(2)",
             "title": "Apple M1 Chip (2)",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[Apple M1 Chip (2)].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-mac-mini",
+            "id": "apple-event-november-2020-mac-mac-mini-(2021)",
             "title": "Mac Mini (2021)",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[Mac Mini (2021)].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-macbook-air",
-            "title": "MacBook Air (2021)",
+            "id": "apple-event-november-2020-mac-macbook-air-(2021)",
+            "title": "Macbook Air (2021)",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[Macbook Air (2021)].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-macbook-pro-13",
-            "title": "MacBook Pro 13 (2021)",
+            "id": "apple-event-november-2020-mac-macbook-pro-13-(2021)",
+            "title": "Macbook Pro 13 (2021)",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[Macbook Pro 13 (2021)].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-macbook-pro-13-environmental-goals",
+            "id": "apple-event-november-2020-mac-new-m1-mac-family-environmental-goals",
             "title": "New M1 Mac Family Environmental Goals",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[New M1 Mac Family Environmental Goals].webp",
             "category": "mac"
         },
         {
-            "id": "apple-event-nov-2020-new-m1-mac-family",
+            "id": "apple-event-november-2020-mac-new-m1-mac-family",
             "title": "New M1 Mac Family",
             "image": "/slides/[Apple Event November 2020]-[Mac]-[New M1 Mac Family].webp",
             "category": "mac"
         }
     ],
-    "apple-event-oct-2020": [
+    "apple-event-october-2020": [
         {
-            "id": "apple-event-oct-2020-homepod-mini",
-            "title": "HomePod Mini",
-            "image": "/slides/[Apple Event October 2020]-[TV & Home]-[HomePod Mini].webp",
-            "category": "tv-home"
+            "id": "apple-event-october-2020-iphone-iphone-12-and-12-mini",
+            "title": "iPhone 12 and 12 Mini",
+            "image": "/slides/[Apple Event October 2020]-[iPhone]-[iPhone 12 and 12 Mini].webp",
+            "category": "iphone"
         },
         {
-            "id": "apple-event-oct-2020-iphone-12-pro-max",
-            "title": "iPhone 12 Pro Max",
+            "id": "apple-event-october-2020-iphone-iphone-12-pro-and-12-pro-max",
+            "title": "iPhone 12 Pro and 12 Pro Max",
             "image": "/slides/[Apple Event October 2020]-[iPhone]-[iPhone 12 Pro and 12 Pro Max].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-oct-2020-iphone-12-and-12mini",
-            "title": "iPhone 12 and 12 Mini",
-            "image": "/slides/[Apple Event October 2020]-[iPhone]-[iPhone 12 and 12 Mini].webp",
-            "category": "iphone"
+            "id": "apple-event-october-2020-tv-&-home-homepod-mini",
+            "title": "HomePod Mini",
+            "image": "/slides/[Apple Event October 2020]-[TV & Home]-[HomePod Mini].webp",
+            "category": "tv-&-home"
         }
     ],
-    "apple-event-sept-2020": [
+    "apple-event-october-2021": [
         {
-            "id": "apple-event-sept-2020-apple-watch-se",
-            "title": "Apple Watch SE (2020)",
-            "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch SE (2020)].webp",
-            "category": "iphone"
+            "id": "apple-event-october-2021-airpods-airpods-3rd-generation",
+            "title": "AirPods 3rd Generation",
+            "image": "/slides/[Apple Event October 2021]-[AirPods]-[AirPods 3rd Generation].webp",
+            "category": "airpods"
         },
         {
-            "id": "apple-event-sept-2020-apple-watch-series-6",
-            "title": "Apple Watch Series 6",
-            "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch Series 6].webp",
-            "category": "iphone"
-        },
-        {
-            "id": "apple-event-sept-2020-apple-a14-chip",
-            "title": "Apple A14 Chip",
-            "image": "/slides/[Apple Event September 2020]-[iPad]-[Apple A14 Chip].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2020-new-ipads-environmental-goals",
-            "title": "New iPads Environmental Goals",
-            "image": "/slides/[Apple Event September 2020]-[iPad]-[New iPads Environmental Goals].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2020-ipad-2020",
-            "title": "iPad (2020)",
-            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPad (2020)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2020-ipad-air-2020",
-            "title": "iPad Air (2020)",
-            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPad Air (2020)].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "apple-event-sept-2020-ipad-os-14",
-            "title": "iPadOS 14",
-            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPadOS 14].webp",
-            "category": "ipad"
-        }
-    ],
-    "wwdc-june-2020": [
-        {
-            "id": "wwdc2020-watchos-7",
-            "title": "watchOS 7",
-            "image": "/slides/[WWDC June 2020]-[Apple Watch]-[watchOS 7].webp",
-            "category": "apple-watch"
-        },
-        {
-            "id": "wwdc2020-apple-silicon",
-            "title": "Apple Silicon",
-            "image": "/slides/[WWDC June 2020]-[Mac]-[Apple Silicon].webp",
+            "id": "apple-event-october-2021-mac-macbook-14-and-16-(2021)",
+            "title": "Macbook 14 and 16 (2021)",
+            "image": "/slides/[Apple Event October 2021]-[Mac]-[Macbook 14 and 16 (2021)].webp",
             "category": "mac"
         },
         {
-            "id": "wwdc2020-macos-11",
-            "title": "macOS 11",
-            "image": "/slides/[WWDC June 2020]-[Mac]-[macOS 11].webp",
+            "id": "apple-event-october-2021-mac-macbook-14-and-16-environmental-goals",
+            "title": "Macbook 14 and 16 Environmental Goals",
+            "image": "/slides/[Apple Event October 2021]-[Mac]-[Macbook 14 and 16 Environmental Goals].webp",
+            "category": "mac"
+        }
+    ],
+    "apple-event-october-2023": [
+        {
+            "id": "apple-event-october-2023-mac-apple-m3-family",
+            "title": "Apple M3 Family",
+            "image": "/slides/[Apple Event October 2023]-[Mac]-[Apple M3 Family].webp",
             "category": "mac"
         },
         {
-            "id": "wwdc2020-home-new-features",
-            "title": "Home New Features",
-            "image": "/slides/[WWDC June 2020]-[TV & Home]-[New Home Features].webp",
-            "category": "tv-home"
+            "id": "apple-event-october-2023-mac-imac-(2023)",
+            "title": "iMac (2023)",
+            "image": "/slides/[Apple Event October 2023]-[Mac]-[iMac (2023)].webp",
+            "category": "mac"
         },
         {
-            "id": "wwdc2020-ipados-14",
-            "title": "iPadOS 14",
-            "image": "/slides/[WWDC June 2020]-[iPad]-[iPadOS 14].webp",
-            "category": "ipad"
-        },
-        {
-            "id": "wwdc2020-ios-14",
-            "title": "iOS 14",
-            "image": "/slides/[WWDC June 2020]-[iPhone]-[iOS 14].webp",
-            "category": "iphone"
+            "id": "apple-event-october-2023-mac-macbook-pro-14-and-16-(2023)",
+            "title": "Macbook Pro 14 and 16 (2023)",
+            "image": "/slides/[Apple Event October 2023]-[Mac]-[Macbook Pro 14 and 16 (2023)].webp",
+            "category": "mac"
         }
     ],
-    "apple-event-sept-2019": [
+    "apple-event-september-2019": [
         {
-            "id": "apple-event-sept-2019-apple-store-experience",
-            "title": "Apple Store Experience",
+            "id": "apple-event-september-2019-apple-store-store-experience",
+            "title": "Store experience",
             "image": "/slides/[Apple Event September 2019]-[Apple Store]-[Store experience].webp",
             "category": "apple-store"
         },
         {
-            "id": "apple-event-sept-2019-apple-watch-series-5-6",
+            "id": "apple-event-september-2019-apple-watch-apple-watch-series-5-and-watchos-6",
             "title": "Apple Watch Series 5 and watchOS 6",
             "image": "/slides/[Apple Event September 2019]-[Apple Watch]-[Apple Watch Series 5 and watchOS 6].webp",
             "category": "apple-watch"
         },
         {
-            "id": "apple-event-sept-2019-ipad-2019",
+            "id": "apple-event-september-2019-ipad-ipad-(2019)-and-ipados-13",
             "title": "iPad (2019) and iPadOS 13",
             "image": "/slides/[Apple Event September 2019]-[iPad]-[iPad (2019) and iPadOS 13].webp",
             "category": "ipad"
         },
         {
-            "id": "apple-event-sept-2019-iphone-11-camera-system",
+            "id": "apple-event-september-2019-iphone-iphone-11-camera-system",
             "title": "iPhone 11 Camera System",
             "image": "/slides/[Apple Event September 2019]-[iPhone]-[iPhone 11 Camera System].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-sept-2019-iphone-11-pro",
-            "title": "iPhone 11 Pro",
+            "id": "apple-event-september-2019-iphone-iphone-11-pro-(1)",
+            "title": "iPhone 11 Pro (1)",
             "image": "/slides/[Apple Event September 2019]-[iPhone]-[iPhone 11 Pro (1)].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-sept-2019-iphone-11-pro-max",
-            "title": "iPhone 11 Pro Max",
+            "id": "apple-event-september-2019-iphone-iphone-11-pro-(2)",
+            "title": "iPhone 11 Pro (2)",
             "image": "/slides/[Apple Event September 2019]-[iPhone]-[iPhone 11 Pro (2)].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-sept-2019-iphone-11-pro-camera-system",
+            "id": "apple-event-september-2019-iphone-iphone-11-pro-camera-system",
             "title": "iPhone 11 Pro Camera System",
             "image": "/slides/[Apple Event September 2019]-[iPhone]-[iPhone 11 Pro Camera System].webp",
             "category": "iphone"
         },
         {
-            "id": "apple-event-sept-2019-iphone-11",
-            "title": "iPhone 11 Ultra",
+            "id": "apple-event-september-2019-iphone-iphone-11",
+            "title": "iPhone 11",
             "image": "/slides/[Apple Event September 2019]-[iPhone]-[iPhone 11].webp",
             "category": "iphone"
+        }
+    ],
+    "apple-event-september-2020": [
+        {
+            "id": "apple-event-september-2020-apple-watch-apple-watch-se-(2020)",
+            "title": "Apple Watch SE (2020)",
+            "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch SE (2020)].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2020-apple-watch-apple-watch-series-6",
+            "title": "Apple Watch Series 6",
+            "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch Series 6].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2020-ipad-apple-a14-chip",
+            "title": "Apple A14 Chip",
+            "image": "/slides/[Apple Event September 2020]-[iPad]-[Apple A14 Chip].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2020-ipad-ipad-(2020)",
+            "title": "iPad (2020)",
+            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPad (2020)].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2020-ipad-ipad-air-(2020)",
+            "title": "iPad Air (2020)",
+            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPad Air (2020)].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2020-ipad-ipados-14",
+            "title": "iPadOS 14",
+            "image": "/slides/[Apple Event September 2020]-[iPad]-[iPadOS 14].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2020-ipad-new-ipads-environmental-goals",
+            "title": "New iPads Environmental Goals",
+            "image": "/slides/[Apple Event September 2020]-[iPad]-[New iPads Environmental Goals].webp",
+            "category": "ipad"
+        }
+    ],
+    "apple-event-september-2021": [
+        {
+            "id": "apple-event-september-2021-apple-watch-apple-watch-series-7",
+            "title": "Apple Watch Series 7",
+            "image": "/slides/[Apple Event September 2021]-[Apple Watch]-[Apple Watch Series 7].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2021-ipad-ipad-(2021)",
+            "title": "iPad (2021)",
+            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad (2021)].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2021-ipad-ipad-environmental-goals",
+            "title": "iPad Environmental Goals",
+            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad Environmental Goals].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2021-ipad-ipad-mini-(2021)",
+            "title": "iPad Mini (2021)",
+            "image": "/slides/[Apple Event September 2021]-[iPad]-[iPad Mini (2021)].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "apple-event-september-2021-iphone-iphone-13-pro",
+            "title": "iPhone 13 Pro",
+            "image": "/slides/[Apple Event September 2021]-[iPhone]-[iPhone 13 Pro].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2021-iphone-iphone-13",
+            "title": "iPhone 13",
+            "image": "/slides/[Apple Event September 2021]-[iPhone]-[iPhone 13].webp",
+            "category": "iphone"
+        }
+    ],
+    "apple-event-september-2022": [
+        {
+            "id": "apple-event-september-2022-airpods-airpods-pro-2nd-generation",
+            "title": "AirPods Pro 2nd Generation",
+            "image": "/slides/[Apple Event September 2022]-[AirPods]-[AirPods Pro 2nd Generation].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-september-2022-airpods-airpods-pro-environmental-goals",
+            "title": "AirPods Pro Environmental Goals",
+            "image": "/slides/[Apple Event September 2022]-[AirPods]-[AirPods Pro Environmental Goals].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-september-2022-apple-watch-apple-watch-se-(2022)",
+            "title": "Apple Watch SE (2022)",
+            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch SE (2022)].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2022-apple-watch-apple-watch-series-8",
+            "title": "Apple Watch Series 8",
+            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Series 8].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2022-apple-watch-apple-watch-ultra",
+            "title": "Apple Watch Ultra",
+            "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Ultra].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2022-iphone-iphone-14-display",
+            "title": "iPhone 14 Display",
+            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Display].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2022-iphone-iphone-14-pro-environmental-goals",
+            "title": "iPhone 14 Pro Environmental Goals",
+            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Pro Environmental Goals].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2022-iphone-iphone-14-pro",
+            "title": "iPhone 14 Pro",
+            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14 Pro].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2022-iphone-iphone-14",
+            "title": "iPhone 14",
+            "image": "/slides/[Apple Event September 2022]-[iPhone]-[iPhone 14].webp",
+            "category": "iphone"
+        }
+    ],
+    "apple-event-september-2023": [
+        {
+            "id": "apple-event-september-2023-apple-watch-apple-watch-series-9",
+            "title": "Apple Watch Series 9",
+            "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Series 9].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2023-apple-watch-apple-watch-ultra-2",
+            "title": "Apple Watch Ultra 2",
+            "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Ultra 2].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2023-iphone-iphone-15-camera",
+            "title": "iPhone 15 Camera",
+            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15 Camera].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2023-iphone-iphone-15-pro",
+            "title": "iPhone 15 Pro",
+            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15 Pro].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2023-iphone-iphone-15",
+            "title": "iPhone 15",
+            "image": "/slides/[Apple Event September 2023]-[iPhone]-[iPhone 15].webp",
+            "category": "iphone"
+        }
+    ],
+    "apple-event-september-2024": [
+        {
+            "id": "apple-event-september-2024-airpods-airpods-4",
+            "title": "AirPods 4",
+            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods 4].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-september-2024-airpods-airpods-pro-2",
+            "title": "AirPods Pro 2",
+            "image": "/slides/[Apple Event September 2024]-[AirPods]-[AirPods Pro 2].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "apple-event-september-2024-apple-watch-apple-watch-series-10",
+            "title": "Apple Watch Series 10",
+            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Series 10].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2024-apple-watch-apple-watch-ultra-3",
+            "title": "Apple Watch Ultra 3",
+            "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Ultra 3].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "apple-event-september-2024-iphone-iphone-16-a18",
+            "title": "iPhone 16 A18",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 A18].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2024-iphone-iphone-16-pro",
+            "title": "iPhone 16 Pro",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16 Pro].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "apple-event-september-2024-iphone-iphone-16",
+            "title": "iPhone 16",
+            "image": "/slides/[Apple Event September 2024]-[iPhone]-[iPhone 16].webp",
+            "category": "iphone"
+        }
+    ],
+    "wwdc-june-2020": [
+        {
+            "id": "wwdc-june-2020-apple-watch-watchos-7",
+            "title": "watchOS 7",
+            "image": "/slides/[WWDC June 2020]-[Apple Watch]-[watchOS 7].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2020-ipad-ipados-14",
+            "title": "iPadOS 14",
+            "image": "/slides/[WWDC June 2020]-[iPad]-[iPadOS 14].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "wwdc-june-2020-iphone-ios-14",
+            "title": "iOS 14",
+            "image": "/slides/[WWDC June 2020]-[iPhone]-[iOS 14].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "wwdc-june-2020-mac-apple-silicon",
+            "title": "Apple Silicon",
+            "image": "/slides/[WWDC June 2020]-[Mac]-[Apple Silicon].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2020-mac-macos-11",
+            "title": "macOS 11",
+            "image": "/slides/[WWDC June 2020]-[Mac]-[macOS 11].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2020-tv-&-home-new-home-features",
+            "title": "New Home Features",
+            "image": "/slides/[WWDC June 2020]-[TV & Home]-[New Home Features].webp",
+            "category": "tv-&-home"
+        }
+    ],
+    "wwdc-june-2021": [
+        {
+            "id": "wwdc-june-2021-airpods-new-features-coming-to-airpods-family",
+            "title": "New features Coming to AirPods Family",
+            "image": "/slides/[WWDC June 2021]-[AirPods]-[New features Coming to AirPods Family].webp",
+            "category": "airpods"
+        },
+        {
+            "id": "wwdc-june-2021-apple-watch-health",
+            "title": "Health",
+            "image": "/slides/[WWDC June 2021]-[Apple Watch]-[Health].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2021-apple-watch-watchos-8",
+            "title": "watchOS 8",
+            "image": "/slides/[WWDC June 2021]-[Apple Watch]-[watchOS 8].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2021-ipad-ipados-15",
+            "title": "iPadOS 15",
+            "image": "/slides/[WWDC June 2021]-[iPad]-[iPadOS 15].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "wwdc-june-2021-iphone-ios-15",
+            "title": "iOS 15",
+            "image": "/slides/[WWDC June 2021]-[iPhone]-[iOS 15].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "wwdc-june-2021-mac-macos-12",
+            "title": "macOS 12",
+            "image": "/slides/[WWDC June 2021]-[Mac]-[macOS 12].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2021-tv-&-home-home",
+            "title": "Home",
+            "image": "/slides/[WWDC June 2021]-[TV & Home]-[Home].webp",
+            "category": "tv-&-home"
+        }
+    ],
+    "wwdc-june-2022": [
+        {
+            "id": "wwdc-june-2022-apple-watch-watchos-9",
+            "title": "watchOS 9",
+            "image": "/slides/[WWDC June 2022]-[Apple Watch]-[watchOS 9].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2022-ipad-ipados-16",
+            "title": "iPadOS 16",
+            "image": "/slides/[WWDC June 2022]-[iPad]-[iPadOS 16].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "wwdc-june-2022-iphone-ios-16",
+            "title": "iOS 16",
+            "image": "/slides/[WWDC June 2022]-[iPhone]-[iOS 16].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "wwdc-june-2022-mac-apple-m2-chip",
+            "title": "Apple M2 Chip",
+            "image": "/slides/[WWDC June 2022]-[Mac]-[Apple M2 Chip].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2022-mac-macbook-air-(2022)",
+            "title": "Macbook Air (2022)",
+            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Air (2022)].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2022-mac-macbook-environmental-goals",
+            "title": "Macbook Environmental Goals",
+            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Environmental Goals].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2022-mac-macbook-pro-13-(2022)",
+            "title": "Macbook Pro 13 (2022)",
+            "image": "/slides/[WWDC June 2022]-[Mac]-[Macbook Pro 13 (2022)].webp",
+            "category": "mac"
+        }
+    ],
+    "wwdc-june-2023": [
+        {
+            "id": "wwdc-june-2023-apple-watch-watchos-10",
+            "title": "watchOS 10",
+            "image": "/slides/[WWDC June 2023]-[Apple Watch]-[watchOS 10].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2023-ipad-ipados-17",
+            "title": "iPadOS 17",
+            "image": "/slides/[WWDC June 2023]-[iPad]-[iPadOS 17].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "wwdc-june-2023-iphone-ios-17",
+            "title": "iOS 17",
+            "image": "/slides/[WWDC June 2023]-[iPhone]-[iOS 17].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "wwdc-june-2023-mac-apple-m2-ultra-chip",
+            "title": "Apple M2 Ultra Chip",
+            "image": "/slides/[WWDC June 2023]-[Mac]-[Apple M2 Ultra Chip].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2023-mac-mac-pro-(2023)",
+            "title": "Mac Pro (2023)",
+            "image": "/slides/[WWDC June 2023]-[Mac]-[Mac Pro (2023)].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2023-mac-mac-studio-(2023)",
+            "title": "Mac Studio (2023)",
+            "image": "/slides/[WWDC June 2023]-[Mac]-[Mac Studio (2023)].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2023-mac-macbook-air-15",
+            "title": "Macbook Air 15",
+            "image": "/slides/[WWDC June 2023]-[Mac]-[Macbook Air 15].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2023-mac-macos-13",
+            "title": "macOS 13",
+            "image": "/slides/[WWDC June 2023]-[Mac]-[macOS 13].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2023-tv-&-home-audio-&-home",
+            "title": "Audio & Home",
+            "image": "/slides/[WWDC June 2023]-[TV & Home]-[Audio & Home].webp",
+            "category": "tv-&-home"
+        }
+    ],
+    "wwdc-june-2024": [
+        {
+            "id": "wwdc-june-2024-ai-apple-intelligence",
+            "title": "Apple Intelligence",
+            "image": "/slides/[WWDC June 2024]-[AI]-[Apple Intelligence].webp",
+            "category": "ai"
+        },
+        {
+            "id": "wwdc-june-2024-apple-watch-watchos-11",
+            "title": "watchOS 11",
+            "image": "/slides/[WWDC June 2024]-[Apple Watch]-[watchOS 11].webp",
+            "category": "apple-watch"
+        },
+        {
+            "id": "wwdc-june-2024-ipad-ipados-18",
+            "title": "iPadOS 18",
+            "image": "/slides/[WWDC June 2024]-[iPad]-[iPadOS 18].webp",
+            "category": "ipad"
+        },
+        {
+            "id": "wwdc-june-2024-iphone-ios-18",
+            "title": "iOS 18",
+            "image": "/slides/[WWDC June 2024]-[iPhone]-[iOS 18].webp",
+            "category": "iphone"
+        },
+        {
+            "id": "wwdc-june-2024-mac-macos-15",
+            "title": "macOS 15",
+            "image": "/slides/[WWDC June 2024]-[Mac]-[macOS 15].webp",
+            "category": "mac"
+        },
+        {
+            "id": "wwdc-june-2024-tv-&-home-audio-&-home",
+            "title": "Audio & Home",
+            "image": "/slides/[WWDC June 2024]-[TV & Home]-[Audio & Home].webp",
+            "category": "tv-&-home"
+        },
+        {
+            "id": "wwdc-june-2024-vision-visionos-2",
+            "title": "visionOS 2",
+            "image": "/slides/[WWDC June 2024]-[Vision]-[visionOS 2].webp",
+            "category": "vision"
         }
     ]
 }

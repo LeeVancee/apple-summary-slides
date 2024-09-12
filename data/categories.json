@@ -2,51 +2,51 @@
     {
         "id": "all",
         "name": "All",
-        "icon": "/categories/all.svg"
+        "icon": "/assets/all.svg"
+    },
+    {
+        "id": "ipad",
+        "name": "Ipad",
+        "icon": "/assets/Ipad.svg"
+    },
+    {
+        "id": "iphone",
+        "name": "Iphone",
+        "icon": "/assets/Iphone.svg"
     },
     {
         "id": "mac",
         "name": "Mac",
-        "icon": "/categories/mac.svg"
+        "icon": "/assets/Mac.svg"
     },
     {
-        "id": "iphone",
-        "name": "iPhone",
-        "icon": "/categories/iphone.svg"
-    },
-    {
-        "id": "ipad",
-        "name": "iPad",
-        "icon": "/categories/ipad.svg"
-    },
-    {
-        "id": "apple-watch",
-        "name": "Apple Watch",
-        "icon": "/categories/apple watch.svg"
+        "id": "tv-&-home",
+        "name": "Tv & Home",
+        "icon": "/assets/Tv & Home.svg"
     },
     {
         "id": "airpods",
-        "name": "AirPods",
-        "icon": "/categories/airpods.svg"
-    },
-    {
-        "id": "tv-home",
-        "name": "TV & Home",
-        "icon": "/categories/tv & home.svg"
-    },
-    {
-        "id": "Vision",
-        "name": "Vision",
-        "icon": "/categories/vision.svg"
-    },
-    {
-        "id": "ai",
-        "name": "AI",
-        "icon": "/categories/ai.svg"
+        "name": "Airpods",
+        "icon": "/assets/Airpods.svg"
     },
     {
         "id": "apple-store",
         "name": "Apple Store",
-        "icon": "/categories/apple store.svg"
+        "icon": "/assets/Apple Store.svg"
+    },
+    {
+        "id": "apple-watch",
+        "name": "Apple Watch",
+        "icon": "/assets/Apple Watch.svg"
+    },
+    {
+        "id": "ai",
+        "name": "Ai",
+        "icon": "/assets/Ai.svg"
+    },
+    {
+        "id": "vision",
+        "name": "Vision",
+        "icon": "/assets/Vision.svg"
     }
 ]

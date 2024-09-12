@@ -1,4 +1,4 @@
-import events from '@/data/event.json';
+import events from '@/data/events.json';
 import slides from '@/data/slides.json';
 import Gallery from '@/components/Gallery';
 

@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 import Image from 'next/image';
-import events from '@/data/event.json';
+import events from '@/data/events.json';
 import Link from 'next/link';
 import { useParams } from 'next/navigation';
 import useSidebarStore from '@/utils/open-sidebar';
@@ -29,7 +29,7 @@ const Sidebar: React.FC = () => {
                   }`}
                 >
                   <Image
-                    src={event.logo}
+                    src={event.image}
                     alt={event.name}
                     width={180}
                     height={114}
@@ -58,7 +58,7 @@ const Sidebar: React.FC = () => {
                   }`}
                 >
                   <Image
-                    src={event.logo}
+                    src={event.image}
                     alt={event.name}
                     width="0"
                     height="0"

@@ -1,0 +1,204 @@
+[
+    {
+        "id": "apple-event-september-2024",
+        "name": "Apple Event September 2024",
+        "image": "/assets/Apple Event September 2024.webp",
+        "categories": [
+            "all",
+            "airpods",
+            "apple-watch",
+            "iphone"
+        ]
+    },
+    {
+        "id": "wwdc-june-2024",
+        "name": "WWDC June 2024",
+        "image": "/assets/WWDC June 2024.webp",
+        "categories": [
+            "all",
+            "ai",
+            "apple-watch",
+            "ipad",
+            "iphone",
+            "mac",
+            "tv-&-home",
+            "vision"
+        ]
+    },
+    {
+        "id": "apple-event-may-2024",
+        "name": "Apple Event May 2024",
+        "image": "/assets/Apple Event May 2024.webp",
+        "categories": [
+            "all",
+            "ipad"
+        ]
+    },
+    {
+        "id": "apple-event-october-2023",
+        "name": "Apple Event October 2023",
+        "image": "/assets/Apple Event October 2023.webp",
+        "categories": [
+            "all",
+            "mac"
+        ]
+    },
+    {
+        "id": "apple-event-september-2023",
+        "name": "Apple Event September 2023",
+        "image": "/assets/Apple Event September 2023.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "iphone"
+        ]
+    },
+    {
+        "id": "wwdc-june-2023",
+        "name": "WWDC June 2023",
+        "image": "/assets/WWDC June 2023.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "ipad",
+            "iphone",
+            "mac",
+            "tv-&-home"
+        ]
+    },
+    {
+        "id": "apple-event-september-2022",
+        "name": "Apple Event September 2022",
+        "image": "/assets/Apple Event September 2022.webp",
+        "categories": [
+            "all",
+            "airpods",
+            "apple-watch",
+            "iphone"
+        ]
+    },
+    {
+        "id": "wwdc-june-2022",
+        "name": "WWDC June 2022",
+        "image": "/assets/WWDC June 2022.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "ipad",
+            "iphone",
+            "mac"
+        ]
+    },
+    {
+        "id": "apple-event-march-2022",
+        "name": "Apple Event March 2022",
+        "image": "/assets/Apple Event March 2022.webp",
+        "categories": [
+            "all",
+            "ipad",
+            "iphone",
+            "mac"
+        ]
+    },
+    {
+        "id": "apple-event-october-2021",
+        "name": "Apple Event October 2021",
+        "image": "/assets/Apple Event October 2021.webp",
+        "categories": [
+            "all",
+            "airpods",
+            "mac"
+        ]
+    },
+    {
+        "id": "apple-event-september-2021",
+        "name": "Apple Event September 2021",
+        "image": "/assets/Apple Event September 2021.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "ipad",
+            "iphone"
+        ]
+    },
+    {
+        "id": "wwdc-june-2021",
+        "name": "WWDC June 2021",
+        "image": "/assets/WWDC June 2021.webp",
+        "categories": [
+            "all",
+            "airpods",
+            "apple-watch",
+            "ipad",
+            "iphone",
+            "mac",
+            "tv-&-home"
+        ]
+    },
+    {
+        "id": "apple-event-april-2021",
+        "name": "Apple Event April 2021",
+        "image": "/assets/Apple Event April 2021.webp",
+        "categories": [
+            "all",
+            "ipad",
+            "iphone",
+            "mac",
+            "tv-&-home"
+        ]
+    },
+    {
+        "id": "apple-event-november-2020",
+        "name": "Apple Event November 2020",
+        "image": "/assets/Apple Event November 2020.webp",
+        "categories": [
+            "all",
+            "mac"
+        ]
+    },
+    {
+        "id": "apple-event-october-2020",
+        "name": "Apple Event October 2020",
+        "image": "/assets/Apple Event October 2020.webp",
+        "categories": [
+            "all",
+            "iphone",
+            "tv-&-home"
+        ]
+    },
+    {
+        "id": "apple-event-september-2020",
+        "name": "Apple Event September 2020",
+        "image": "/assets/Apple Event September 2020.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "ipad"
+        ]
+    },
+    {
+        "id": "wwdc-june-2020",
+        "name": "WWDC June 2020",
+        "image": "/assets/WWDC June 2020.webp",
+        "categories": [
+            "all",
+            "apple-watch",
+            "ipad",
+            "iphone",
+            "mac",
+            "tv-&-home"
+        ]
+    },
+    {
+        "id": "apple-event-september-2019",
+        "name": "Apple Event September 2019",
+        "image": "/assets/Apple Event September 2019.webp",
+        "categories": [
+            "all",
+            "apple-store",
+            "apple-watch",
+            "ipad",
+            "iphone"
+        ]
+    }
+]
