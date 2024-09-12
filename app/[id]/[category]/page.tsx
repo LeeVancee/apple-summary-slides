@@ -5,15 +5,16 @@ import Gallery from '@/components/Gallery';
 
 export default function EventCategoryPage({ params }: { params: { id: string; category: string } }) {
   const event = events.find((e) => e.id === params.id) || events[0];
-  const category = categories.find((c) => c.id === params.category);
+  const decodedCategory = decodeURIComponent(params.category);
+  const category = categories.find((c) => c.id === decodedCategory);
 
   const allSlides = Object.values(slides).flat();
   const eventSlides = params.id === 'all' ? allSlides : slides[params.id as keyof typeof slides] || [];
 
   const filteredSlides =
-    params.category === 'all'
+    decodedCategory === 'all'
       ? eventSlides
-      : (params.id === 'all' ? allSlides : eventSlides).filter((slide) => slide.category === params.category);
+      : (params.id === 'all' ? allSlides : eventSlides).filter((slide) => slide.category === decodedCategory);
 
   return (
     <div className="px-3 sm:px-6 pb-6 pt-3">

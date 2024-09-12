@@ -25,12 +25,17 @@ let slides = {};
 // 解析文件名的函數
 function parseFileName(fileName) {
   const parts = fileName.replace('.webp', '').split('-');
+  let category = parts[1].replace(/[\[\]]/g, '').toLowerCase();
+
+  // 處理所有帶空格的類別
+  category = category.replace(/ /g, '-');
+
   return {
     event: parts[0]
       .replace(/[\[\]]/g, '')
       .toLowerCase()
       .replace(/ /g, '-'),
-    category: parts[1].replace(/[\[\]]/g, '').toLowerCase(), // 移除這裡的 .replace(/ /g, '-')
+    category: category,
     title: parts[2].replace(/[\[\]]/g, ''),
   };
 }
@@ -48,7 +53,7 @@ function formatEventName(eventId) {
     .join(' ');
 }
 
-// 格式化類別名稱的函數
+// 修改 formatCategoryName 函數
 function formatCategoryName(categoryId) {
   return categoryId
     .split('-')
@@ -111,7 +116,7 @@ fs.readdirSync(SLIDES_DIR).forEach((file) => {
       categories.push({
         id: category,
         name: categoryName,
-        icon: `/assets/${category}.svg`, // 直接使用 category，不進行額外處理
+        icon: `/assets/${category.replace(/-/g, ' ')}.svg`, // 將破折號轉回空格
       });
     }
 

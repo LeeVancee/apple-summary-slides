@@ -37,16 +37,16 @@
             "category": "mac"
         },
         {
-            "id": "apple-event-april-2021-tv & home-apple-tv-4k-(2021)",
+            "id": "apple-event-april-2021-tv-&-home-apple-tv-4k-(2021)",
             "title": "Apple TV 4K (2021)",
             "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K (2021)].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         },
         {
-            "id": "apple-event-april-2021-tv & home-apple-tv-4k-environmental-goals",
+            "id": "apple-event-april-2021-tv-&-home-apple-tv-4k-environmental-goals",
             "title": "Apple TV 4K Environmental Goals",
             "image": "/slides/[Apple Event April 2021]-[TV & Home]-[Apple TV 4K Environmental Goals].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         }
     ],
     "apple-event-march-2022": [
@@ -183,10 +183,10 @@
             "category": "iphone"
         },
         {
-            "id": "apple-event-october-2020-tv & home-homepod-mini",
+            "id": "apple-event-october-2020-tv-&-home-homepod-mini",
             "title": "HomePod Mini",
             "image": "/slides/[Apple Event October 2020]-[TV & Home]-[HomePod Mini].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         }
     ],
     "apple-event-october-2021": [
@@ -231,16 +231,16 @@
     ],
     "apple-event-september-2019": [
         {
-            "id": "apple-event-september-2019-apple store-store-experience",
+            "id": "apple-event-september-2019-apple-store-store-experience",
             "title": "Store experience",
             "image": "/slides/[Apple Event September 2019]-[Apple Store]-[Store experience].webp",
-            "category": "apple store"
+            "category": "apple-store"
         },
         {
-            "id": "apple-event-september-2019-apple watch-apple-watch-series-5-and-watchos-6",
+            "id": "apple-event-september-2019-apple-watch-apple-watch-series-5-and-watchos-6",
             "title": "Apple Watch Series 5 and watchOS 6",
             "image": "/slides/[Apple Event September 2019]-[Apple Watch]-[Apple Watch Series 5 and watchOS 6].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2019-ipad-ipad-(2019)-and-ipados-13",
@@ -281,16 +281,16 @@
     ],
     "apple-event-september-2020": [
         {
-            "id": "apple-event-september-2020-apple watch-apple-watch-se-(2020)",
+            "id": "apple-event-september-2020-apple-watch-apple-watch-se-(2020)",
             "title": "Apple Watch SE (2020)",
             "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch SE (2020)].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "apple-event-september-2020-apple watch-apple-watch-series-6",
+            "id": "apple-event-september-2020-apple-watch-apple-watch-series-6",
             "title": "Apple Watch Series 6",
             "image": "/slides/[Apple Event September 2020]-[Apple Watch]-[Apple Watch Series 6].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2020-ipad-apple-a14-chip",
@@ -325,10 +325,10 @@
     ],
     "apple-event-september-2021": [
         {
-            "id": "apple-event-september-2021-apple watch-apple-watch-series-7",
+            "id": "apple-event-september-2021-apple-watch-apple-watch-series-7",
             "title": "Apple Watch Series 7",
             "image": "/slides/[Apple Event September 2021]-[Apple Watch]-[Apple Watch Series 7].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2021-ipad-ipad-(2021)",
@@ -375,22 +375,22 @@
             "category": "airpods"
         },
         {
-            "id": "apple-event-september-2022-apple watch-apple-watch-se-(2022)",
+            "id": "apple-event-september-2022-apple-watch-apple-watch-se-(2022)",
             "title": "Apple Watch SE (2022)",
             "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch SE (2022)].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "apple-event-september-2022-apple watch-apple-watch-series-8",
+            "id": "apple-event-september-2022-apple-watch-apple-watch-series-8",
             "title": "Apple Watch Series 8",
             "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Series 8].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "apple-event-september-2022-apple watch-apple-watch-ultra",
+            "id": "apple-event-september-2022-apple-watch-apple-watch-ultra",
             "title": "Apple Watch Ultra",
             "image": "/slides/[Apple Event September 2022]-[Apple Watch]-[Apple Watch Ultra].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2022-iphone-iphone-14-display",
@@ -419,16 +419,16 @@
     ],
     "apple-event-september-2023": [
         {
-            "id": "apple-event-september-2023-apple watch-apple-watch-series-9",
+            "id": "apple-event-september-2023-apple-watch-apple-watch-series-9",
             "title": "Apple Watch Series 9",
             "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Series 9].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "apple-event-september-2023-apple watch-apple-watch-ultra-2",
+            "id": "apple-event-september-2023-apple-watch-apple-watch-ultra-2",
             "title": "Apple Watch Ultra 2",
             "image": "/slides/[Apple Event September 2023]-[Apple Watch]-[Apple Watch Ultra 2].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2023-iphone-iphone-15-camera",
@@ -463,16 +463,16 @@
             "category": "airpods"
         },
         {
-            "id": "apple-event-september-2024-apple watch-apple-watch-series-10",
+            "id": "apple-event-september-2024-apple-watch-apple-watch-series-10",
             "title": "Apple Watch Series 10",
             "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Series 10].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "apple-event-september-2024-apple watch-apple-watch-ultra-3",
+            "id": "apple-event-september-2024-apple-watch-apple-watch-ultra-3",
             "title": "Apple Watch Ultra 3",
             "image": "/slides/[Apple Event September 2024]-[Apple Watch]-[Apple Watch Ultra 3].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "apple-event-september-2024-iphone-iphone-16-a18",
@@ -495,10 +495,10 @@
     ],
     "wwdc-june-2020": [
         {
-            "id": "wwdc-june-2020-apple watch-watchos-7",
+            "id": "wwdc-june-2020-apple-watch-watchos-7",
             "title": "watchOS 7",
             "image": "/slides/[WWDC June 2020]-[Apple Watch]-[watchOS 7].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "wwdc-june-2020-ipad-ipados-14",
@@ -525,10 +525,10 @@
             "category": "mac"
         },
         {
-            "id": "wwdc-june-2020-tv & home-new-home-features",
+            "id": "wwdc-june-2020-tv-&-home-new-home-features",
             "title": "New Home Features",
             "image": "/slides/[WWDC June 2020]-[TV & Home]-[New Home Features].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         }
     ],
     "wwdc-june-2021": [
@@ -539,16 +539,16 @@
             "category": "airpods"
         },
         {
-            "id": "wwdc-june-2021-apple watch-health",
+            "id": "wwdc-june-2021-apple-watch-health",
             "title": "Health",
             "image": "/slides/[WWDC June 2021]-[Apple Watch]-[Health].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
-            "id": "wwdc-june-2021-apple watch-watchos-8",
+            "id": "wwdc-june-2021-apple-watch-watchos-8",
             "title": "watchOS 8",
             "image": "/slides/[WWDC June 2021]-[Apple Watch]-[watchOS 8].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "wwdc-june-2021-ipad-ipados-15",
@@ -569,18 +569,18 @@
             "category": "mac"
         },
         {
-            "id": "wwdc-june-2021-tv & home-home",
+            "id": "wwdc-june-2021-tv-&-home-home",
             "title": "Home",
             "image": "/slides/[WWDC June 2021]-[TV & Home]-[Home].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         }
     ],
     "wwdc-june-2022": [
         {
-            "id": "wwdc-june-2022-apple watch-watchos-9",
+            "id": "wwdc-june-2022-apple-watch-watchos-9",
             "title": "watchOS 9",
             "image": "/slides/[WWDC June 2022]-[Apple Watch]-[watchOS 9].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "wwdc-june-2022-ipad-ipados-16",
@@ -621,10 +621,10 @@
     ],
     "wwdc-june-2023": [
         {
-            "id": "wwdc-june-2023-apple watch-watchos-10",
+            "id": "wwdc-june-2023-apple-watch-watchos-10",
             "title": "watchOS 10",
             "image": "/slides/[WWDC June 2023]-[Apple Watch]-[watchOS 10].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "wwdc-june-2023-ipad-ipados-17",
@@ -669,10 +669,10 @@
             "category": "mac"
         },
         {
-            "id": "wwdc-june-2023-tv & home-audio-&-home",
+            "id": "wwdc-june-2023-tv-&-home-audio-&-home",
             "title": "Audio & Home",
             "image": "/slides/[WWDC June 2023]-[TV & Home]-[Audio & Home].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         }
     ],
     "wwdc-june-2024": [
@@ -683,10 +683,10 @@
             "category": "ai"
         },
         {
-            "id": "wwdc-june-2024-apple watch-watchos-11",
+            "id": "wwdc-june-2024-apple-watch-watchos-11",
             "title": "watchOS 11",
             "image": "/slides/[WWDC June 2024]-[Apple Watch]-[watchOS 11].webp",
-            "category": "apple watch"
+            "category": "apple-watch"
         },
         {
             "id": "wwdc-june-2024-ipad-ipados-18",
@@ -707,10 +707,10 @@
             "category": "mac"
         },
         {
-            "id": "wwdc-june-2024-tv & home-audio-&-home",
+            "id": "wwdc-june-2024-tv-&-home-audio-&-home",
             "title": "Audio & Home",
             "image": "/slides/[WWDC June 2024]-[TV & Home]-[Audio & Home].webp",
-            "category": "tv & home"
+            "category": "tv-&-home"
         },
         {
             "id": "wwdc-june-2024-vision-visionos-2",

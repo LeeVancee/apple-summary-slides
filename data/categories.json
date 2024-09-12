@@ -20,8 +20,8 @@
         "icon": "/assets/mac.svg"
     },
     {
-        "id": "tv & home",
-        "name": "Tv & home",
+        "id": "tv-&-home",
+        "name": "Tv & Home",
         "icon": "/assets/tv & home.svg"
     },
     {
@@ -30,13 +30,13 @@
         "icon": "/assets/airpods.svg"
     },
     {
-        "id": "apple store",
-        "name": "Apple store",
+        "id": "apple-store",
+        "name": "Apple Store",
         "icon": "/assets/apple store.svg"
     },
     {
-        "id": "apple watch",
-        "name": "Apple watch",
+        "id": "apple-watch",
+        "name": "Apple Watch",
         "icon": "/assets/apple watch.svg"
     },
     {

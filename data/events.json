@@ -6,7 +6,7 @@
         "categories": [
             "all",
             "airpods",
-            "apple watch",
+            "apple-watch",
             "iphone"
         ]
     },
@@ -17,11 +17,11 @@
         "categories": [
             "all",
             "ai",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone",
             "mac",
-            "tv & home",
+            "tv-&-home",
             "vision"
         ]
     },
@@ -49,7 +49,7 @@
         "image": "/assets/Apple Event September 2023.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "iphone"
         ]
     },
@@ -59,11 +59,11 @@
         "image": "/assets/WWDC June 2023.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone",
             "mac",
-            "tv & home"
+            "tv-&-home"
         ]
     },
     {
@@ -73,7 +73,7 @@
         "categories": [
             "all",
             "airpods",
-            "apple watch",
+            "apple-watch",
             "iphone"
         ]
     },
@@ -83,7 +83,7 @@
         "image": "/assets/WWDC June 2022.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone",
             "mac"
@@ -116,7 +116,7 @@
         "image": "/assets/Apple Event September 2021.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone"
         ]
@@ -128,11 +128,11 @@
         "categories": [
             "all",
             "airpods",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone",
             "mac",
-            "tv & home"
+            "tv-&-home"
         ]
     },
     {
@@ -144,7 +144,7 @@
             "ipad",
             "iphone",
             "mac",
-            "tv & home"
+            "tv-&-home"
         ]
     },
     {
@@ -163,7 +163,7 @@
         "categories": [
             "all",
             "iphone",
-            "tv & home"
+            "tv-&-home"
         ]
     },
     {
@@ -172,7 +172,7 @@
         "image": "/assets/Apple Event September 2020.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "ipad"
         ]
     },
@@ -182,11 +182,11 @@
         "image": "/assets/WWDC June 2020.webp",
         "categories": [
             "all",
-            "apple watch",
+            "apple-watch",
             "ipad",
             "iphone",
             "mac",
-            "tv & home"
+            "tv-&-home"
         ]
     },
     {
@@ -195,8 +195,8 @@
         "image": "/assets/Apple Event September 2019.webp",
         "categories": [
             "all",
-            "apple store",
-            "apple watch",
+            "apple-store",
+            "apple-watch",
             "ipad",
             "iphone"
         ]
