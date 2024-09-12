@@ -7,46 +7,46 @@
     {
         "id": "ipad",
         "name": "Ipad",
-        "icon": "/assets/Ipad.svg"
+        "icon": "/assets/ipad.svg"
     },
     {
         "id": "iphone",
         "name": "Iphone",
-        "icon": "/assets/Iphone.svg"
+        "icon": "/assets/iphone.svg"
     },
     {
         "id": "mac",
         "name": "Mac",
-        "icon": "/assets/Mac.svg"
+        "icon": "/assets/mac.svg"
     },
     {
-        "id": "tv-&-home",
-        "name": "Tv & Home",
-        "icon": "/assets/Tv & Home.svg"
+        "id": "tv & home",
+        "name": "Tv & home",
+        "icon": "/assets/tv & home.svg"
     },
     {
         "id": "airpods",
         "name": "Airpods",
-        "icon": "/assets/Airpods.svg"
+        "icon": "/assets/airpods.svg"
     },
     {
-        "id": "apple-store",
-        "name": "Apple Store",
-        "icon": "/assets/Apple Store.svg"
+        "id": "apple store",
+        "name": "Apple store",
+        "icon": "/assets/apple store.svg"
     },
     {
-        "id": "apple-watch",
-        "name": "Apple Watch",
-        "icon": "/assets/Apple Watch.svg"
+        "id": "apple watch",
+        "name": "Apple watch",
+        "icon": "/assets/apple watch.svg"
     },
     {
         "id": "ai",
         "name": "Ai",
-        "icon": "/assets/Ai.svg"
+        "icon": "/assets/ai.svg"
     },
     {
         "id": "vision",
         "name": "Vision",
-        "icon": "/assets/Vision.svg"
+        "icon": "/assets/vision.svg"
     }
 ]

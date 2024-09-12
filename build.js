@@ -30,10 +30,7 @@ function parseFileName(fileName) {
       .replace(/[\[\]]/g, '')
       .toLowerCase()
       .replace(/ /g, '-'),
-    category: parts[1]
-      .replace(/[\[\]]/g, '')
-      .toLowerCase()
-      .replace(/ /g, '-'),
+    category: parts[1].replace(/[\[\]]/g, '').toLowerCase(), // 移除這裡的 .replace(/ /g, '-')
     title: parts[2].replace(/[\[\]]/g, ''),
   };
 }
@@ -114,7 +111,7 @@ fs.readdirSync(SLIDES_DIR).forEach((file) => {
       categories.push({
         id: category,
         name: categoryName,
-        icon: `/assets/${categoryName}.svg`, // 使用格式化後的類別名稱
+        icon: `/assets/${category}.svg`, // 直接使用 category，不進行額外處理
       });
     }
 
