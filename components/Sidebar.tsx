@@ -29,15 +29,13 @@ const Sidebar: React.FC = () => {
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <div className="relative w-full pb-[56.25%] mb-4">
-                    <Image
-                      src={event.image}
-                      alt={`Thumbnail for ${event.name}`}
-                      fill
-                      sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                      className="object-cover rounded-xl"
-                    />
-                  </div>
+                  <Image
+                    src={event.image}
+                    alt={`Thumbnail for ${event.name}`}
+                    width={224}
+                    height={114}
+                    className="w-[224px] h-[114px] object-cover mb-4 rounded-xl"
+                  />
                   <span className="text-center text-sm">{event.name}</span>
                 </div>
               </Link>
@@ -62,16 +60,14 @@ const Sidebar: React.FC = () => {
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <div className="relative w-full pb-[56.25%] mb-4">
-                    <Image
-                      src={event.image}
-                      alt={`Thumbnail for ${event.name}`}
-                      fill
-                      sizes="(max-width: 640px) 100vw, 256px"
-                      className="object-cover rounded-xl"
-                      priority
-                    />
-                  </div>
+                  <Image
+                    src={event.image}
+                    alt={`Thumbnail for ${event.name}`}
+                    width={224}
+                    height={114}
+                    className="w-[180px] h-[114px] object-cover mb-4 rounded-xl"
+                    priority
+                  />
                   <span className="text-center text-sm">{event.name}</span>
                 </div>
               </Link>
