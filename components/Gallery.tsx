@@ -15,7 +15,7 @@ export default function Gallery({ slides }: GalleryProps) {
 
   const lightboxSlides = slides.map((slide) => ({
     src: slide.image,
-    alt: slide.title,
+    alt: `Full size image: ${slide.title}`,
   }));
 
   return (
@@ -32,7 +32,15 @@ export default function Gallery({ slides }: GalleryProps) {
             setIsOpen(true);
           }}
         >
-          <Image src={slide.image} alt={slide.title} width={530} height={300} className="w-full h-auto rounded-lg" />
+          <div className="relative w-full aspect-[16/9]">
+            <Image
+              src={slide.image}
+              alt={`Thumbnail: ${slide.title}`}
+              fill
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+              className="object-cover rounded-lg"
+            />
+          </div>
         </div>
       ))}
       <Lightbox open={isOpen} close={() => setIsOpen(false)} slides={lightboxSlides} index={currentImageIndex} />
