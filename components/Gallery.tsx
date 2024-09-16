@@ -32,7 +32,7 @@ export default function Gallery({ slides }: GalleryProps) {
             setIsOpen(true);
           }}
         >
-          <div className="relative w-full aspect-[16/9]">
+          <div className="relative w-full pb-[56.25%]">
             <Image
               src={slide.image}
               alt={`Thumbnail: ${slide.title}`}

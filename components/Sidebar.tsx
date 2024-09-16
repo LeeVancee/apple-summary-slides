@@ -29,7 +29,7 @@ const Sidebar: React.FC = () => {
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <div className="relative w-full aspect-[16/9] mb-4">
+                  <div className="relative w-full pb-[56.25%] mb-4">
                     <Image
                       src={event.image}
                       alt={`Thumbnail for ${event.name}`}
@@ -62,11 +62,12 @@ const Sidebar: React.FC = () => {
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <div className="relative w-full aspect-[16/9] mb-4">
+                  <div className="relative w-full pb-[56.25%] mb-4">
                     <Image
                       src={event.image}
                       alt={`Thumbnail for ${event.name}`}
                       fill
+                      sizes="(max-width: 640px) 100vw, 256px"
                       className="object-cover rounded-xl"
                       priority
                     />
