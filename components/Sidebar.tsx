@@ -3,8 +3,8 @@ import React from 'react';
 import Image from 'next/image';
 import events from '@/data/events.json';
 import Link from 'next/link';
-import { useParams } from 'next/navigation';
 import useSidebarStore from '@/utils/open-sidebar';
+import { useParams } from 'next/navigation';
 
 const Sidebar: React.FC = () => {
   const { isOpen } = useSidebarStore();
@@ -34,7 +34,11 @@ const Sidebar: React.FC = () => {
                     alt={`Thumbnail for ${event.name}`}
                     width={224}
                     height={114}
-                    className="w-[224px] h-[114px] object-cover mb-4 rounded-xl"
+                    style={{
+                      width: '100%',
+                      height: 'auto',
+                    }}
+                    className="object-cover mb-4 rounded-xl"
                   />
                   <span className="text-center text-sm">{event.name}</span>
                 </div>
@@ -63,9 +67,13 @@ const Sidebar: React.FC = () => {
                   <Image
                     src={event.image}
                     alt={`Thumbnail for ${event.name}`}
-                    width={224}
-                    height={114}
-                    className="w-[180px] h-[114px] object-cover mb-4 rounded-xl"
+                    width={180}
+                    height={91}
+                    style={{
+                      width: '100%',
+                      height: 'auto',
+                    }}
+                    className=" object-cover mb-4 rounded-xl"
                     priority
                   />
                   <span className="text-center text-sm">{event.name}</span>
