@@ -43,12 +43,12 @@ const Navbar: React.FC = () => {
   };
 
   return (
-    <nav className="sticky top-16 sm:top-0 w-full px-3 sm:px-6 pt-3 sm:pt-6 pb-2 sm:pb-4 z-10 before:content before:absolute before:inset-0 before:bg-black before:bg-opacity-60 before:blur before:-z-10 bg-gradient-to-b from-neutral-950 to-neutral-950/0">
+    <nav className="sticky top-16 sm:top-0 w-full px-3 sm:px-6 pt-3 sm:pt-6 pb-2 sm:pb-4 z-10 before:content before:absolute before:inset-0 before:bg-black before:bg-opacity-60 before:blur-sm before:-z-10 bg-linear-to-b from-neutral-950 to-neutral-950/0">
       <div className="flex flex-wrap gap-2">
         <div className="relative w-full rounded-2xl min-h-[100px] overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-b from-neutral-950 to-neutral-950/0"></div>
-          <div className="absolute inset-0 bg-black bg-opacity-60 blur"></div>
-          <div className="relative w-full h-full rounded-2xl flex items-center ring-1 ring-white/15 p-2 sm:p-4 shadow-sm bg-neutral-900">
+          <div className="absolute inset-0 bg-linear-to-b from-neutral-950 to-neutral-950/0"></div>
+          <div className="absolute inset-0 bg-black bg-opacity-60 blur-sm"></div>
+          <div className="relative w-full h-full rounded-2xl flex items-center ring-1 ring-white/15 p-2 sm:p-4 shadow-xs bg-neutral-900">
             <div className="w-full flex gap-3 overflow-x-auto hide-scrollbar">
               {matchedCategories.map(renderCategoryButton)}
             </div>

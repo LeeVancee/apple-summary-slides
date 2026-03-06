@@ -50,7 +50,7 @@ const Sidebar: React.FC = () => {
 
       {/* Desktop sidebar */}
       <aside className="hidden lg:block rounded-2xl m-3 sm:m-6 fixed top-0 bottom-0 left-0 w-64 z-40 overflow-y-auto bg-neutral-900 hide-scrollbar">
-        <div className="flex top-0 sticky shrink-0 items-center shadow-sm p-4 justify-center bg-neutral-900 gap-x-4">
+        <div className="flex top-0 sticky shrink-0 items-center shadow-xs p-4 justify-center bg-neutral-900 gap-x-4">
           <Image src="/logo.svg" alt="Apple Summary Slides logo" width={32} height={32} />
           <h1 className="font-semibold  text-white">Apple Summary Slides</h1>
         </div>
