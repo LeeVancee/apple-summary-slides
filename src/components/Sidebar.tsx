@@ -1,14 +1,12 @@
 'use client';
 import React from 'react';
-import Image from 'next/image';
+import { Link, useParams } from '@tanstack/react-router';
 import events from '@/data/events.json';
-import Link from 'next/link';
 import useSidebarStore from '@/utils/open-sidebar';
-import { useParams } from 'next/navigation';
 
 const Sidebar: React.FC = () => {
   const { isOpen } = useSidebarStore();
-  const params = useParams();
+  const params = useParams({ strict: false });
   const id = (params.id as string) || 'all';
 
   return (
@@ -23,13 +21,18 @@ const Sidebar: React.FC = () => {
           {events.map((event) => {
             const isActive = id === event.id;
             return (
-              <Link href={`/${event.id}`} key={event.id} className="block">
+              <Link
+                to="/$id"
+                params={{ id: event.id }}
+                key={event.id}
+                className="block"
+              >
                 <div
                   className={`flex flex-col items-center justify-center p-4 rounded-2xl text-white transition-colors duration-300 ${
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <Image
+                  <img
                     src={event.image}
                     alt={`Thumbnail for ${event.name}`}
                     width={224}
@@ -51,20 +54,25 @@ const Sidebar: React.FC = () => {
       {/* Desktop sidebar */}
       <aside className="hidden lg:block rounded-2xl m-3 sm:m-6 fixed top-0 bottom-0 left-0 w-64 z-40 overflow-y-auto bg-neutral-900 hide-scrollbar">
         <div className="flex top-0 sticky shrink-0 items-center shadow-xs p-4 justify-center bg-neutral-900 gap-x-4">
-          <Image src="/logo.svg" alt="Apple Summary Slides logo" width={32} height={32} />
+          <img src="/logo.svg" alt="Apple Summary Slides logo" width={32} height={32} />
           <h1 className="font-semibold  text-white">Apple Summary Slides</h1>
         </div>
         <nav className="mt-4 space-y-4 px-4">
           {events.map((event) => {
             const isActive = id === event.id;
             return (
-              <Link href={`/${event.id}`} key={event.id} className="block">
+              <Link
+                to="/$id"
+                params={{ id: event.id }}
+                key={event.id}
+                className="block"
+              >
                 <div
                   className={`flex flex-col items-center justify-center p-4 rounded-2xl text-white transition-colors duration-300 ${
                     isActive ? 'bg-neutral-700' : 'bg-neutral-800 hover:bg-neutral-700'
                   }`}
                 >
-                  <Image
+                  <img
                     src={event.image}
                     alt={`Thumbnail for ${event.name}`}
                     width={180}
@@ -74,7 +82,6 @@ const Sidebar: React.FC = () => {
                       height: 'auto',
                     }}
                     className=" object-cover mb-4 rounded-xl"
-                    priority
                   />
                   <span className="text-center text-sm">{event.name}</span>
                 </div>

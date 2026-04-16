@@ -1,27 +1,32 @@
 'use client';
 import React from 'react';
-import Image from 'next/image';
-import { useParams, useRouter } from 'next/navigation';
+import { useParams, useRouter } from '@tanstack/react-router';
 import events from '@/data/events.json';
 import categories from '@/data/categories.json';
 import { cn } from '@/lib/utils';
 
 const Navbar: React.FC = () => {
-  const params = useParams();
+  const params = useParams({ strict: false });
   const router = useRouter();
-  const currentEventId = params.id as string;
-  const currentCategoryId = (params.category as string) || 'all';
+  const currentEventId = (params.id as string) || 'all';
+  const currentCategoryId = (params.categoryId as string) || 'all';
 
-  const currentEvent = events.find((event) => event.id === currentEventId) || events[0];
+  const currentEvent =
+    events.find((event) => event.id === currentEventId) || events[0];
   const currentCategories = currentEvent.categories;
 
-  const matchedCategories = categories.filter((category) => currentCategories.includes(category.id));
+  const matchedCategories = categories.filter((category) =>
+    currentCategories.includes(category.id),
+  );
 
   const handleCategoryClick = (categoryId: string) => {
     if (categoryId === 'all') {
-      router.push(`/${currentEventId}`);
+      router.navigate({ to: '/$id', params: { id: currentEventId } });
     } else {
-      router.push(`/${currentEventId}/${categoryId}`);
+      router.navigate({
+        to: '/$id/$categoryId',
+        params: { id: currentEventId, categoryId },
+      });
     }
   };
 
@@ -33,10 +38,10 @@ const Navbar: React.FC = () => {
         onClick={() => handleCategoryClick(category.id)}
         className={cn(
           'flex flex-col items-center justify-center py-2 px-4 rounded-2xl whitespace-nowrap min-w-[90px] text-white transition-colors duration-300',
-          isActive ? 'bg-neutral-700' : 'bg-neutral-900 hover:bg-neutral-700'
+          isActive ? 'bg-neutral-700' : 'bg-neutral-900 hover:bg-neutral-700',
         )}
       >
-        <Image src={category.icon} alt={category.name} width={48} height={48} className="w-12 h-12 inline" />
+        <img src={category.icon} alt={category.name} width={48} height={48} className="w-12 h-12 inline" />
         <span className="text-sm text-white mt-2">{category.name}</span>
       </button>
     );

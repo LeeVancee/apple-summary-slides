@@ -3,7 +3,7 @@ import path from 'path';
 
 // 定義圖片目錄和 JSON 文件路徑
 const SLIDES_DIR = './public/slides';
-const DATA_DIR = './data';
+const DATA_DIR = './src/data';
 const CATEGORIES_JSON = path.join(DATA_DIR, 'categories.json');
 const EVENTS_JSON = path.join(DATA_DIR, 'events.json');
 const SLIDES_JSON = path.join(DATA_DIR, 'slides.json');

@@ -1,16 +1,18 @@
+import { createFileRoute } from '@tanstack/react-router';
 import events from '@/data/events.json';
 import slides from '@/data/slides.json';
 import Gallery from '@/components/Gallery';
 
-interface EventPageProps {
-  params: Promise<{ id: string }>;
-}
+export const Route = createFileRoute('/$id/')({
+  component: EventPage,
+});
 
-export default async function EventPage({ params }: EventPageProps) {
-  const { id } = await params;
+function EventPage() {
+  const { id } = Route.useParams();
   const event = events.find((e) => e.id === id) || events[0];
   const allSlides = Object.values(slides).flat();
-  const eventSlides = id === 'all' ? allSlides : slides[id as keyof typeof slides] || [];
+  const eventSlides =
+    id === 'all' ? allSlides : slides[id as keyof typeof slides] || [];
 
   return (
     <div className="px-3 sm:px-6 pb-6 pt-3">

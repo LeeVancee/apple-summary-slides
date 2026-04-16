@@ -1,5 +1,4 @@
 'use client';
-import Image from 'next/image';
 import { useState } from 'react';
 import Lightbox from 'yet-another-react-lightbox';
 import 'yet-another-react-lightbox/styles.css';
@@ -25,7 +24,7 @@ export default function Gallery({ slides }: GalleryProps) {
           key={slide.id}
           className={cn(
             'bg-neutral-800 rounded-lg overflow-hidden shadow-lg',
-            'transition-transform duration-300 hover:scale-105 cursor-pointer'
+            'transition-transform duration-300 hover:scale-105 cursor-pointer',
           )}
           onClick={() => {
             setCurrentImageIndex(index);
@@ -33,12 +32,12 @@ export default function Gallery({ slides }: GalleryProps) {
           }}
         >
           <div className="relative w-full pb-[56.25%]">
-            <Image
+            <img
               src={slide.image}
               alt={`Thumbnail: ${slide.title}`}
-              fill
+              loading="lazy"
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-              className="object-cover rounded-lg"
+              className="absolute inset-0 w-full h-full object-cover rounded-lg"
             />
           </div>
         </div>
